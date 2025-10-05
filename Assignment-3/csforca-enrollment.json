@@ -1,0 +1,7162 @@
+[
+  {
+    "county":"Alameda",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":19.0,
+    "Non-AP CS":292.0,
+    "Overall Enrollment":3398.0
+  },
+  {
+    "county":"Alameda",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":21.0,
+    "Non-AP CS":407.0,
+    "Overall Enrollment":3584.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":115.0,
+    "Non-AP CS":768.0,
+    "Overall Enrollment":8367.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":202.0,
+    "Non-AP CS":1400.0,
+    "Overall Enrollment":8687.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":17.0,
+    "Non-AP CS":69.0,
+    "Overall Enrollment":1904.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":39.0,
+    "Non-AP CS":151.0,
+    "Overall Enrollment":2081.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":57.0,
+    "Non-AP CS":553.0,
+    "Overall Enrollment":11301.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":114.0,
+    "Non-AP CS":911.0,
+    "Overall Enrollment":12264.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":11.0,
+    "Non-AP CS":130.0,
+    "Overall Enrollment":1841.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":38.0,
+    "Non-AP CS":221.0,
+    "Overall Enrollment":1858.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":83.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":82.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":359.0
+  },
+  {
+    "county":"Alameda",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":27.0,
+    "Overall Enrollment":344.0
+  },
+  {
+    "county":"Alameda",
+    "race":"White",
+    "sex":"F",
+    "AP CS":47.0,
+    "Non-AP CS":324.0,
+    "Overall Enrollment":6320.0
+  },
+  {
+    "county":"Alameda",
+    "race":"White",
+    "sex":"M",
+    "AP CS":111.0,
+    "Non-AP CS":798.0,
+    "Overall Enrollment":6823.0
+  },
+  {
+    "county":"Amador",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Amador",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Amador",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Amador",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Amador",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Amador",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Amador",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":132.0
+  },
+  {
+    "county":"Amador",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":24.0,
+    "Overall Enrollment":127.0
+  },
+  {
+    "county":"Amador",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":52.0
+  },
+  {
+    "county":"Amador",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":46.0
+  },
+  {
+    "county":"Amador",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":21.0
+  },
+  {
+    "county":"Amador",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":16.0
+  },
+  {
+    "county":"Amador",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Amador",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Amador",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":15.0,
+    "Overall Enrollment":435.0
+  },
+  {
+    "county":"Amador",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":58.0,
+    "Overall Enrollment":464.0
+  },
+  {
+    "county":"Butte",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":127.0
+  },
+  {
+    "county":"Butte",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":106.0
+  },
+  {
+    "county":"Butte",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":275.0
+  },
+  {
+    "county":"Butte",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":305.0
+  },
+  {
+    "county":"Butte",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":26.0
+  },
+  {
+    "county":"Butte",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":23.0
+  },
+  {
+    "county":"Butte",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":1100.0
+  },
+  {
+    "county":"Butte",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":83.0,
+    "Overall Enrollment":1241.0
+  },
+  {
+    "county":"Butte",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":237.0
+  },
+  {
+    "county":"Butte",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":232.0
+  },
+  {
+    "county":"Butte",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":145.0
+  },
+  {
+    "county":"Butte",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":155.0
+  },
+  {
+    "county":"Butte",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":16.0
+  },
+  {
+    "county":"Butte",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":27.0
+  },
+  {
+    "county":"Butte",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":67.0,
+    "Overall Enrollment":2878.0
+  },
+  {
+    "county":"Butte",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":226.0,
+    "Overall Enrollment":2935.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":9.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":14.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":171.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":182.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":44.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":46.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":14.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":578.0
+  },
+  {
+    "county":"Calaveras",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":23.0,
+    "Overall Enrollment":663.0
+  },
+  {
+    "county":"Colusa",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Colusa",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":513.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":561.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Colusa",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Colusa",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":132.0
+  },
+  {
+    "county":"Colusa",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":157.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":5.0,
+    "Non-AP CS":124.0,
+    "Overall Enrollment":2600.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":287.0,
+    "Overall Enrollment":2778.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":6.0,
+    "Non-AP CS":333.0,
+    "Overall Enrollment":3552.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":11.0,
+    "Non-AP CS":796.0,
+    "Overall Enrollment":3738.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":84.0,
+    "Overall Enrollment":1267.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":10.0,
+    "Non-AP CS":167.0,
+    "Overall Enrollment":1431.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":420.0,
+    "Overall Enrollment":9442.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":25.0,
+    "Non-AP CS":885.0,
+    "Overall Enrollment":10048.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":86.0,
+    "Overall Enrollment":1629.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":157.0,
+    "Overall Enrollment":1577.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":78.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":82.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":195.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":20.0,
+    "Overall Enrollment":185.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"White",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":395.0,
+    "Overall Enrollment":8877.0
+  },
+  {
+    "county":"Contra Costa",
+    "race":"White",
+    "sex":"M",
+    "AP CS":19.0,
+    "Non-AP CS":1083.0,
+    "Overall Enrollment":9279.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":30.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":30.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":140.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":134.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":33.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":36.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":99.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":86.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":313.0
+  },
+  {
+    "county":"Del Norte",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":342.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":51.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":59.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":18.0,
+    "Overall Enrollment":167.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":51.0,
+    "Overall Enrollment":185.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":71.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":79.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":829.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":44.0,
+    "Overall Enrollment":943.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":223.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":30.0,
+    "Overall Enrollment":261.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":43.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":40.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":11.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":65.0,
+    "Overall Enrollment":2934.0
+  },
+  {
+    "county":"El Dorado",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":212.0,
+    "Overall Enrollment":3089.0
+  },
+  {
+    "county":"Fresno",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":33.0,
+    "Overall Enrollment":1375.0
+  },
+  {
+    "county":"Fresno",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":86.0,
+    "Overall Enrollment":1562.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":31.0,
+    "Non-AP CS":100.0,
+    "Overall Enrollment":2747.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":52.0,
+    "Non-AP CS":250.0,
+    "Overall Enrollment":3061.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":22.0,
+    "Overall Enrollment":271.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":8.0,
+    "Non-AP CS":25.0,
+    "Overall Enrollment":283.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":28.0,
+    "Non-AP CS":379.0,
+    "Overall Enrollment":19232.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":82.0,
+    "Non-AP CS":758.0,
+    "Overall Enrollment":20075.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":540.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":11.0,
+    "Non-AP CS":38.0,
+    "Overall Enrollment":531.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":213.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":183.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":76.0
+  },
+  {
+    "county":"Fresno",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":73.0
+  },
+  {
+    "county":"Fresno",
+    "race":"White",
+    "sex":"F",
+    "AP CS":39.0,
+    "Non-AP CS":279.0,
+    "Overall Enrollment":5360.0
+  },
+  {
+    "county":"Fresno",
+    "race":"White",
+    "sex":"M",
+    "AP CS":112.0,
+    "Non-AP CS":476.0,
+    "Overall Enrollment":5607.0
+  },
+  {
+    "county":"Glenn",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Glenn",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":22.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":31.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":22.0,
+    "Overall Enrollment":537.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":494.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":22.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":23.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":18.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":21.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Glenn",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Glenn",
+    "race":"White",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":297.0
+  },
+  {
+    "county":"Glenn",
+    "race":"White",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":297.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":34.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":33.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":106.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":78.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":19.0,
+    "Overall Enrollment":440.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":34.0,
+    "Overall Enrollment":459.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":203.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":30.0,
+    "Overall Enrollment":253.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":200.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":252.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":17.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":21.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":79.0,
+    "Overall Enrollment":1552.0
+  },
+  {
+    "county":"Humboldt",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":175.0,
+    "Overall Enrollment":1609.0
+  },
+  {
+    "county":"Imperial",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":42.0
+  },
+  {
+    "county":"Imperial",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":31.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":28.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":18.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":13.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":212.0,
+    "Overall Enrollment":5566.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":420.0,
+    "Overall Enrollment":5752.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":36.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":35.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":56.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":54.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Imperial",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Imperial",
+    "race":"White",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":277.0
+  },
+  {
+    "county":"Imperial",
+    "race":"White",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":293.0
+  },
+  {
+    "county":"Inyo",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":158.0
+  },
+  {
+    "county":"Inyo",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":189.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Inyo",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":776.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":894.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":49.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":69.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":74.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":69.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Inyo",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Inyo",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":133.0
+  },
+  {
+    "county":"Inyo",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":180.0
+  },
+  {
+    "county":"Kern",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":26.0,
+    "Overall Enrollment":1505.0
+  },
+  {
+    "county":"Kern",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":51.0,
+    "Overall Enrollment":1607.0
+  },
+  {
+    "county":"Kern",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":664.0
+  },
+  {
+    "county":"Kern",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":41.0,
+    "Overall Enrollment":670.0
+  },
+  {
+    "county":"Kern",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":479.0
+  },
+  {
+    "county":"Kern",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":25.0,
+    "Overall Enrollment":585.0
+  },
+  {
+    "county":"Kern",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":224.0,
+    "Overall Enrollment":18503.0
+  },
+  {
+    "county":"Kern",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":541.0,
+    "Overall Enrollment":19139.0
+  },
+  {
+    "county":"Kern",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":589.0
+  },
+  {
+    "county":"Kern",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":30.0,
+    "Overall Enrollment":529.0
+  },
+  {
+    "county":"Kern",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":160.0
+  },
+  {
+    "county":"Kern",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":178.0
+  },
+  {
+    "county":"Kern",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":84.0
+  },
+  {
+    "county":"Kern",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":59.0
+  },
+  {
+    "county":"Kern",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":114.0,
+    "Overall Enrollment":5955.0
+  },
+  {
+    "county":"Kern",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":283.0,
+    "Overall Enrollment":6345.0
+  },
+  {
+    "county":"Kings",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":170.0
+  },
+  {
+    "county":"Kings",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":196.0
+  },
+  {
+    "county":"Kings",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":51.0
+  },
+  {
+    "county":"Kings",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":50.0
+  },
+  {
+    "county":"Kings",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":80.0
+  },
+  {
+    "county":"Kings",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":87.0
+  },
+  {
+    "county":"Kings",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":3005.0
+  },
+  {
+    "county":"Kings",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":123.0,
+    "Overall Enrollment":3131.0
+  },
+  {
+    "county":"Kings",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":81.0
+  },
+  {
+    "county":"Kings",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":78.0
+  },
+  {
+    "county":"Kings",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":53.0
+  },
+  {
+    "county":"Kings",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":52.0
+  },
+  {
+    "county":"Kings",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Kings",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Kings",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":875.0
+  },
+  {
+    "county":"Kings",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":951.0
+  },
+  {
+    "county":"Lake",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":20.0
+  },
+  {
+    "county":"Lake",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":21.0
+  },
+  {
+    "county":"Lake",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":11.0
+  },
+  {
+    "county":"Lake",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":9.0
+  },
+  {
+    "county":"Lake",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":13.0
+  },
+  {
+    "county":"Lake",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Lake",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":28.0,
+    "Overall Enrollment":502.0
+  },
+  {
+    "county":"Lake",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":57.0,
+    "Overall Enrollment":541.0
+  },
+  {
+    "county":"Lake",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":97.0
+  },
+  {
+    "county":"Lake",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":99.0
+  },
+  {
+    "county":"Lake",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":51.0
+  },
+  {
+    "county":"Lake",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":58.0
+  },
+  {
+    "county":"Lake",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Lake",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Lake",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":53.0,
+    "Overall Enrollment":707.0
+  },
+  {
+    "county":"Lake",
+    "race":"White",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":84.0,
+    "Overall Enrollment":729.0
+  },
+  {
+    "county":"Lassen",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Lassen",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":90.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":93.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":26.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":17.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":26.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":27.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Lassen",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Lassen",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":310.0
+  },
+  {
+    "county":"Lassen",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":371.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":108.0,
+    "Non-AP CS":451.0,
+    "Overall Enrollment":16670.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":163.0,
+    "Non-AP CS":748.0,
+    "Overall Enrollment":16905.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":358.0,
+    "Non-AP CS":932.0,
+    "Overall Enrollment":18133.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":798.0,
+    "Non-AP CS":2008.0,
+    "Overall Enrollment":19202.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":80.0,
+    "Non-AP CS":156.0,
+    "Overall Enrollment":5825.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":181.0,
+    "Non-AP CS":389.0,
+    "Overall Enrollment":6356.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":1025.0,
+    "Non-AP CS":3189.0,
+    "Overall Enrollment":145659.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":1877.0,
+    "Non-AP CS":6428.0,
+    "Overall Enrollment":152978.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":40.0,
+    "Non-AP CS":193.0,
+    "Overall Enrollment":6371.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":88.0,
+    "Non-AP CS":380.0,
+    "Overall Enrollment":5967.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":6.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":574.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":7.0,
+    "Non-AP CS":24.0,
+    "Overall Enrollment":543.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":680.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":18.0,
+    "Non-AP CS":38.0,
+    "Overall Enrollment":768.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"White",
+    "sex":"F",
+    "AP CS":219.0,
+    "Non-AP CS":577.0,
+    "Overall Enrollment":30275.0
+  },
+  {
+    "county":"Los Angeles",
+    "race":"White",
+    "sex":"M",
+    "AP CS":668.0,
+    "Non-AP CS":1863.0,
+    "Overall Enrollment":32725.0
+  },
+  {
+    "county":"Madera",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":90.0
+  },
+  {
+    "county":"Madera",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":74.0
+  },
+  {
+    "county":"Madera",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":58.0
+  },
+  {
+    "county":"Madera",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":65.0
+  },
+  {
+    "county":"Madera",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":17.0
+  },
+  {
+    "county":"Madera",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":16.0
+  },
+  {
+    "county":"Madera",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":25.0,
+    "Overall Enrollment":3376.0
+  },
+  {
+    "county":"Madera",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":49.0,
+    "Overall Enrollment":3486.0
+  },
+  {
+    "county":"Madera",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":95.0
+  },
+  {
+    "county":"Madera",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":92.0
+  },
+  {
+    "county":"Madera",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":56.0
+  },
+  {
+    "county":"Madera",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":55.0
+  },
+  {
+    "county":"Madera",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Madera",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Madera",
+    "race":"White",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":71.0,
+    "Overall Enrollment":1027.0
+  },
+  {
+    "county":"Madera",
+    "race":"White",
+    "sex":"M",
+    "AP CS":13.0,
+    "Non-AP CS":108.0,
+    "Overall Enrollment":1088.0
+  },
+  {
+    "county":"Marin",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":81.0
+  },
+  {
+    "county":"Marin",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":118.0
+  },
+  {
+    "county":"Marin",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":275.0
+  },
+  {
+    "county":"Marin",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":16.0,
+    "Non-AP CS":23.0,
+    "Overall Enrollment":282.0
+  },
+  {
+    "county":"Marin",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":35.0
+  },
+  {
+    "county":"Marin",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":43.0
+  },
+  {
+    "county":"Marin",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":1513.0
+  },
+  {
+    "county":"Marin",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":12.0,
+    "Non-AP CS":49.0,
+    "Overall Enrollment":1718.0
+  },
+  {
+    "county":"Marin",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":249.0
+  },
+  {
+    "county":"Marin",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":292.0
+  },
+  {
+    "county":"Marin",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":20.0
+  },
+  {
+    "county":"Marin",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":25.0
+  },
+  {
+    "county":"Marin",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":23.0
+  },
+  {
+    "county":"Marin",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":24.0
+  },
+  {
+    "county":"Marin",
+    "race":"White",
+    "sex":"F",
+    "AP CS":33.0,
+    "Non-AP CS":44.0,
+    "Overall Enrollment":2897.0
+  },
+  {
+    "county":"Marin",
+    "race":"White",
+    "sex":"M",
+    "AP CS":68.0,
+    "Non-AP CS":187.0,
+    "Overall Enrollment":3019.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":53.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":46.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":18.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":26.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":13.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":10.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":183.0
+  },
+  {
+    "county":"Mariposa",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":193.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":17.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":18.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":26.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":16.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":25.0,
+    "Overall Enrollment":816.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":73.0,
+    "Overall Enrollment":836.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":93.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":103.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":120.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":138.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":41.0,
+    "Overall Enrollment":889.0
+  },
+  {
+    "county":"Mendocino",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":83.0,
+    "Overall Enrollment":898.0
+  },
+  {
+    "county":"Merced",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":267.0
+  },
+  {
+    "county":"Merced",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":23.0,
+    "Overall Enrollment":300.0
+  },
+  {
+    "county":"Merced",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":465.0
+  },
+  {
+    "county":"Merced",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":122.0,
+    "Overall Enrollment":539.0
+  },
+  {
+    "county":"Merced",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":51.0
+  },
+  {
+    "county":"Merced",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":63.0
+  },
+  {
+    "county":"Merced",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":144.0,
+    "Overall Enrollment":6466.0
+  },
+  {
+    "county":"Merced",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":513.0,
+    "Overall Enrollment":6606.0
+  },
+  {
+    "county":"Merced",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":118.0
+  },
+  {
+    "county":"Merced",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":120.0
+  },
+  {
+    "county":"Merced",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":52.0
+  },
+  {
+    "county":"Merced",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":40.0
+  },
+  {
+    "county":"Merced",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":32.0
+  },
+  {
+    "county":"Merced",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":34.0
+  },
+  {
+    "county":"Merced",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":26.0,
+    "Overall Enrollment":1373.0
+  },
+  {
+    "county":"Merced",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":180.0,
+    "Overall Enrollment":1504.0
+  },
+  {
+    "county":"Modoc",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Modoc",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":68.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":78.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Modoc",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":11.0
+  },
+  {
+    "county":"Modoc",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":96.0
+  },
+  {
+    "county":"Modoc",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":120.0
+  },
+  {
+    "county":"Mono",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Mono",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":30.0
+  },
+  {
+    "county":"Mono",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Mono",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Mono",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Mono",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Mono",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":215.0
+  },
+  {
+    "county":"Mono",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":239.0
+  },
+  {
+    "county":"Mono",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Mono",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":11.0
+  },
+  {
+    "county":"Mono",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Mono",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Mono",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Mono",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Mono",
+    "race":"White",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":114.0
+  },
+  {
+    "county":"Mono",
+    "race":"White",
+    "sex":"M",
+    "AP CS":4.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":132.0
+  },
+  {
+    "county":"Monterey",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":157.0
+  },
+  {
+    "county":"Monterey",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":13.0,
+    "Non-AP CS":15.0,
+    "Overall Enrollment":158.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":215.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":9.0,
+    "Non-AP CS":19.0,
+    "Overall Enrollment":197.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":243.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":24.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":248.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":133.0,
+    "Non-AP CS":675.0,
+    "Overall Enrollment":8644.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":229.0,
+    "Non-AP CS":1017.0,
+    "Overall Enrollment":8981.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":6.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":207.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":11.0,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":210.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":34.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":31.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":60.0
+  },
+  {
+    "county":"Monterey",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":40.0
+  },
+  {
+    "county":"Monterey",
+    "race":"White",
+    "sex":"F",
+    "AP CS":23.0,
+    "Non-AP CS":46.0,
+    "Overall Enrollment":1397.0
+  },
+  {
+    "county":"Monterey",
+    "race":"White",
+    "sex":"M",
+    "AP CS":32.0,
+    "Non-AP CS":114.0,
+    "Overall Enrollment":1527.0
+  },
+  {
+    "county":"Napa",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":92.0
+  },
+  {
+    "county":"Napa",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":97.0
+  },
+  {
+    "county":"Napa",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":68.0
+  },
+  {
+    "county":"Napa",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":84.0
+  },
+  {
+    "county":"Napa",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":5.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":241.0
+  },
+  {
+    "county":"Napa",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":14.0,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":267.0
+  },
+  {
+    "county":"Napa",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":1756.0
+  },
+  {
+    "county":"Napa",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":32.0,
+    "Non-AP CS":61.0,
+    "Overall Enrollment":1852.0
+  },
+  {
+    "county":"Napa",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":157.0
+  },
+  {
+    "county":"Napa",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":7.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":128.0
+  },
+  {
+    "county":"Napa",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":10.0
+  },
+  {
+    "county":"Napa",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":14.0
+  },
+  {
+    "county":"Napa",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Napa",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Napa",
+    "race":"White",
+    "sex":"F",
+    "AP CS":20.0,
+    "Non-AP CS":22.0,
+    "Overall Enrollment":1006.0
+  },
+  {
+    "county":"Napa",
+    "race":"White",
+    "sex":"M",
+    "AP CS":46.0,
+    "Non-AP CS":64.0,
+    "Overall Enrollment":1058.0
+  },
+  {
+    "county":"Nevada",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":60.0
+  },
+  {
+    "county":"Nevada",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":104.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":31.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":32.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":11.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":611.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":607.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":76.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":107.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":24.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":30.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Nevada",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Nevada",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":47.0,
+    "Overall Enrollment":1253.0
+  },
+  {
+    "county":"Nevada",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":81.0,
+    "Overall Enrollment":1389.0
+  },
+  {
+    "county":"Orange",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":10.0,
+    "Non-AP CS":20.0,
+    "Overall Enrollment":1078.0
+  },
+  {
+    "county":"Orange",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":8.0,
+    "Non-AP CS":51.0,
+    "Overall Enrollment":1197.0
+  },
+  {
+    "county":"Orange",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":337.0,
+    "Non-AP CS":712.0,
+    "Overall Enrollment":12989.0
+  },
+  {
+    "county":"Orange",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":612.0,
+    "Non-AP CS":1693.0,
+    "Overall Enrollment":14039.0
+  },
+  {
+    "county":"Orange",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":32.0,
+    "Non-AP CS":49.0,
+    "Overall Enrollment":1830.0
+  },
+  {
+    "county":"Orange",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":55.0,
+    "Non-AP CS":118.0,
+    "Overall Enrollment":1918.0
+  },
+  {
+    "county":"Orange",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":299.0,
+    "Non-AP CS":441.0,
+    "Overall Enrollment":36931.0
+  },
+  {
+    "county":"Orange",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":336.0,
+    "Non-AP CS":1500.0,
+    "Overall Enrollment":38464.0
+  },
+  {
+    "county":"Orange",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":24.0,
+    "Non-AP CS":67.0,
+    "Overall Enrollment":2817.0
+  },
+  {
+    "county":"Orange",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":55.0,
+    "Non-AP CS":193.0,
+    "Overall Enrollment":2765.0
+  },
+  {
+    "county":"Orange",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":168.0
+  },
+  {
+    "county":"Orange",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":178.0
+  },
+  {
+    "county":"Orange",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":245.0
+  },
+  {
+    "county":"Orange",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":4.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":300.0
+  },
+  {
+    "county":"Orange",
+    "race":"White",
+    "sex":"F",
+    "AP CS":143.0,
+    "Non-AP CS":317.0,
+    "Overall Enrollment":21240.0
+  },
+  {
+    "county":"Orange",
+    "race":"White",
+    "sex":"M",
+    "AP CS":438.0,
+    "Non-AP CS":1223.0,
+    "Overall Enrollment":22859.0
+  },
+  {
+    "county":"Placer",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":265.0
+  },
+  {
+    "county":"Placer",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":29.0,
+    "Overall Enrollment":319.0
+  },
+  {
+    "county":"Placer",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":45.0,
+    "Overall Enrollment":792.0
+  },
+  {
+    "county":"Placer",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":21.0,
+    "Non-AP CS":113.0,
+    "Overall Enrollment":796.0
+  },
+  {
+    "county":"Placer",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":329.0
+  },
+  {
+    "county":"Placer",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":46.0,
+    "Overall Enrollment":372.0
+  },
+  {
+    "county":"Placer",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":58.0,
+    "Overall Enrollment":2251.0
+  },
+  {
+    "county":"Placer",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":10.0,
+    "Non-AP CS":190.0,
+    "Overall Enrollment":2270.0
+  },
+  {
+    "county":"Placer",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":23.0,
+    "Overall Enrollment":708.0
+  },
+  {
+    "county":"Placer",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":69.0,
+    "Overall Enrollment":701.0
+  },
+  {
+    "county":"Placer",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":89.0
+  },
+  {
+    "county":"Placer",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":96.0
+  },
+  {
+    "county":"Placer",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":48.0
+  },
+  {
+    "county":"Placer",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":63.0
+  },
+  {
+    "county":"Placer",
+    "race":"White",
+    "sex":"F",
+    "AP CS":16.0,
+    "Non-AP CS":242.0,
+    "Overall Enrollment":6929.0
+  },
+  {
+    "county":"Placer",
+    "race":"White",
+    "sex":"M",
+    "AP CS":62.0,
+    "Non-AP CS":722.0,
+    "Overall Enrollment":7426.0
+  },
+  {
+    "county":"Plumas",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Plumas",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Plumas",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":0.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":45.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":63.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":23.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":13.0
+  },
+  {
+    "county":"Plumas",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Plumas",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":249.0
+  },
+  {
+    "county":"Plumas",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":246.0
+  },
+  {
+    "county":"Riverside",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":11.0,
+    "Non-AP CS":98.0,
+    "Overall Enrollment":4026.0
+  },
+  {
+    "county":"Riverside",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":26.0,
+    "Non-AP CS":241.0,
+    "Overall Enrollment":4412.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":32.0,
+    "Non-AP CS":105.0,
+    "Overall Enrollment":2118.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":64.0,
+    "Non-AP CS":250.0,
+    "Overall Enrollment":2251.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":12.0,
+    "Non-AP CS":40.0,
+    "Overall Enrollment":1427.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":20.0,
+    "Non-AP CS":125.0,
+    "Overall Enrollment":1641.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":84.0,
+    "Non-AP CS":781.0,
+    "Overall Enrollment":41537.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":229.0,
+    "Non-AP CS":2207.0,
+    "Overall Enrollment":43401.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":10.0,
+    "Non-AP CS":34.0,
+    "Overall Enrollment":2270.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":32.0,
+    "Non-AP CS":146.0,
+    "Overall Enrollment":2326.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":344.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":15.0,
+    "Overall Enrollment":342.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":223.0
+  },
+  {
+    "county":"Riverside",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":272.0
+  },
+  {
+    "county":"Riverside",
+    "race":"White",
+    "sex":"F",
+    "AP CS":45.0,
+    "Non-AP CS":173.0,
+    "Overall Enrollment":13615.0
+  },
+  {
+    "county":"Riverside",
+    "race":"White",
+    "sex":"M",
+    "AP CS":176.0,
+    "Non-AP CS":836.0,
+    "Overall Enrollment":14571.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":38.0,
+    "Overall Enrollment":4503.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":85.0,
+    "Overall Enrollment":4558.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":106.0,
+    "Overall Enrollment":5249.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":18.0,
+    "Non-AP CS":251.0,
+    "Overall Enrollment":5704.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":22.0,
+    "Overall Enrollment":1134.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":27.0,
+    "Overall Enrollment":1282.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":101.0,
+    "Overall Enrollment":11592.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":24.0,
+    "Non-AP CS":236.0,
+    "Overall Enrollment":11925.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":2423.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":46.0,
+    "Overall Enrollment":2529.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":217.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":253.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":485.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":565.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"White",
+    "sex":"F",
+    "AP CS":26.0,
+    "Non-AP CS":109.0,
+    "Overall Enrollment":11119.0
+  },
+  {
+    "county":"Sacramento",
+    "race":"White",
+    "sex":"M",
+    "AP CS":60.0,
+    "Non-AP CS":322.0,
+    "Overall Enrollment":11634.0
+  },
+  {
+    "county":"San Benito",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"San Benito",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":21.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":21.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":21.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":24.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1192.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1352.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":33.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":36.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"San Benito",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"San Benito",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":340.0
+  },
+  {
+    "county":"San Benito",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":406.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":150.0,
+    "Overall Enrollment":5061.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":20.0,
+    "Non-AP CS":310.0,
+    "Overall Enrollment":5474.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":32.0,
+    "Non-AP CS":92.0,
+    "Overall Enrollment":2368.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":79.0,
+    "Non-AP CS":219.0,
+    "Overall Enrollment":2493.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":5.0,
+    "Non-AP CS":22.0,
+    "Overall Enrollment":895.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":17.0,
+    "Non-AP CS":64.0,
+    "Overall Enrollment":967.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":76.0,
+    "Non-AP CS":755.0,
+    "Overall Enrollment":39458.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":258.0,
+    "Non-AP CS":1921.0,
+    "Overall Enrollment":41978.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":8.0,
+    "Non-AP CS":46.0,
+    "Overall Enrollment":1696.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":15.0,
+    "Non-AP CS":85.0,
+    "Overall Enrollment":1695.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":271.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":19.0,
+    "Overall Enrollment":311.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":292.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":283.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"White",
+    "sex":"F",
+    "AP CS":37.0,
+    "Non-AP CS":158.0,
+    "Overall Enrollment":10728.0
+  },
+  {
+    "county":"San Bernardino",
+    "race":"White",
+    "sex":"M",
+    "AP CS":137.0,
+    "Non-AP CS":602.0,
+    "Overall Enrollment":11299.0
+  },
+  {
+    "county":"San Diego",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":99.0,
+    "Overall Enrollment":3400.0
+  },
+  {
+    "county":"San Diego",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":9.0,
+    "Non-AP CS":173.0,
+    "Overall Enrollment":3671.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":43.0,
+    "Non-AP CS":308.0,
+    "Overall Enrollment":4641.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":113.0,
+    "Non-AP CS":610.0,
+    "Overall Enrollment":4872.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":8.0,
+    "Non-AP CS":120.0,
+    "Overall Enrollment":3256.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":34.0,
+    "Non-AP CS":252.0,
+    "Overall Enrollment":3503.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":35.0,
+    "Non-AP CS":769.0,
+    "Overall Enrollment":38711.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":166.0,
+    "Non-AP CS":1741.0,
+    "Overall Enrollment":40253.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":10.0,
+    "Non-AP CS":116.0,
+    "Overall Enrollment":4338.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":38.0,
+    "Non-AP CS":296.0,
+    "Overall Enrollment":4341.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":385.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":423.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":406.0
+  },
+  {
+    "county":"San Diego",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":379.0
+  },
+  {
+    "county":"San Diego",
+    "race":"White",
+    "sex":"F",
+    "AP CS":48.0,
+    "Non-AP CS":396.0,
+    "Overall Enrollment":22111.0
+  },
+  {
+    "county":"San Diego",
+    "race":"White",
+    "sex":"M",
+    "AP CS":180.0,
+    "Non-AP CS":1283.0,
+    "Overall Enrollment":23932.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":1036.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":49.0,
+    "Overall Enrollment":1233.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":80.0,
+    "Non-AP CS":58.0,
+    "Overall Enrollment":3148.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":168.0,
+    "Non-AP CS":128.0,
+    "Overall Enrollment":3324.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":491.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":7.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":535.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":39.0,
+    "Overall Enrollment":3180.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":8.0,
+    "Non-AP CS":124.0,
+    "Overall Enrollment":4309.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":738.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":11.0,
+    "Non-AP CS":28.0,
+    "Overall Enrollment":759.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":39.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":47.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":104.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":130.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"White",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":1026.0
+  },
+  {
+    "county":"San Francisco",
+    "race":"White",
+    "sex":"M",
+    "AP CS":14.0,
+    "Non-AP CS":41.0,
+    "Overall Enrollment":1283.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":34.0,
+    "Overall Enrollment":1911.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":73.0,
+    "Overall Enrollment":1914.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":61.0,
+    "Overall Enrollment":2532.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":157.0,
+    "Overall Enrollment":2738.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":1182.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":64.0,
+    "Overall Enrollment":1226.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":6.0,
+    "Non-AP CS":233.0,
+    "Overall Enrollment":11761.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":20.0,
+    "Non-AP CS":525.0,
+    "Overall Enrollment":11979.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":839.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":797.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":211.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":210.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":169.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":203.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"White",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":59.0,
+    "Overall Enrollment":4353.0
+  },
+  {
+    "county":"San Joaquin",
+    "race":"White",
+    "sex":"M",
+    "AP CS":14.0,
+    "Non-AP CS":242.0,
+    "Overall Enrollment":4683.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":48.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":71.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":131.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":119.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":62.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":65.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":26.0,
+    "Overall Enrollment":2047.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":115.0,
+    "Overall Enrollment":2265.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":205.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":18.0,
+    "Overall Enrollment":203.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":31.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":31.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":16.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"White",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":52.0,
+    "Overall Enrollment":2821.0
+  },
+  {
+    "county":"San Luis Obispo",
+    "race":"White",
+    "sex":"M",
+    "AP CS":8.0,
+    "Non-AP CS":248.0,
+    "Overall Enrollment":3034.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":202.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":248.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":31.0,
+    "Non-AP CS":131.0,
+    "Overall Enrollment":1923.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":54.0,
+    "Non-AP CS":231.0,
+    "Overall Enrollment":2083.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":29.0,
+    "Overall Enrollment":1397.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":111.0,
+    "Overall Enrollment":1507.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":73.0,
+    "Overall Enrollment":5350.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":26.0,
+    "Non-AP CS":147.0,
+    "Overall Enrollment":5771.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":10.0,
+    "Non-AP CS":53.0,
+    "Overall Enrollment":2034.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":16.0,
+    "Non-AP CS":142.0,
+    "Overall Enrollment":2071.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":37.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":44.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":291.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":277.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"White",
+    "sex":"F",
+    "AP CS":100.0,
+    "Non-AP CS":41.0,
+    "Overall Enrollment":2826.0
+  },
+  {
+    "county":"San Mateo",
+    "race":"White",
+    "sex":"M",
+    "AP CS":159.0,
+    "Non-AP CS":106.0,
+    "Overall Enrollment":2970.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":131.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":129.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":213.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":34.0,
+    "Overall Enrollment":238.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":119.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":143.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":98.0,
+    "Overall Enrollment":6858.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":7.0,
+    "Non-AP CS":391.0,
+    "Overall Enrollment":7018.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":240.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":221.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":30.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":52.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"White",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":42.0,
+    "Overall Enrollment":2439.0
+  },
+  {
+    "county":"Santa Barbara",
+    "race":"White",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":173.0,
+    "Overall Enrollment":2639.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":763.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":64.0,
+    "Overall Enrollment":908.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":353.0,
+    "Non-AP CS":783.0,
+    "Overall Enrollment":12237.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":753.0,
+    "Non-AP CS":1731.0,
+    "Overall Enrollment":13008.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":58.0,
+    "Overall Enrollment":1836.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":26.0,
+    "Non-AP CS":139.0,
+    "Overall Enrollment":2010.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":63.0,
+    "Non-AP CS":258.0,
+    "Overall Enrollment":15517.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":166.0,
+    "Non-AP CS":689.0,
+    "Overall Enrollment":16405.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":24.0,
+    "Non-AP CS":59.0,
+    "Overall Enrollment":1801.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":46.0,
+    "Non-AP CS":199.0,
+    "Overall Enrollment":1998.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":112.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":122.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":197.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":4.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":211.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"White",
+    "sex":"F",
+    "AP CS":67.0,
+    "Non-AP CS":197.0,
+    "Overall Enrollment":8107.0
+  },
+  {
+    "county":"Santa Clara",
+    "race":"White",
+    "sex":"M",
+    "AP CS":262.0,
+    "Non-AP CS":662.0,
+    "Overall Enrollment":8796.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":46.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":47.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":143.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":97.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":51.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":53.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":131.0,
+    "Overall Enrollment":3363.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":179.0,
+    "Overall Enrollment":3530.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":255.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":24.0,
+    "Overall Enrollment":298.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":20.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":10.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"White",
+    "sex":"F",
+    "AP CS":10.0,
+    "Non-AP CS":34.0,
+    "Overall Enrollment":2166.0
+  },
+  {
+    "county":"Santa Cruz",
+    "race":"White",
+    "sex":"M",
+    "AP CS":8.0,
+    "Non-AP CS":158.0,
+    "Overall Enrollment":2466.0
+  },
+  {
+    "county":"Shasta",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":48.0
+  },
+  {
+    "county":"Shasta",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":61.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":18.0,
+    "Overall Enrollment":182.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":4.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":169.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":16.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":27.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":40.0,
+    "Overall Enrollment":624.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":7.0,
+    "Non-AP CS":45.0,
+    "Overall Enrollment":643.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":287.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":23.0,
+    "Overall Enrollment":283.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":168.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":19.0,
+    "Overall Enrollment":176.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":14.0
+  },
+  {
+    "county":"Shasta",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":24.0
+  },
+  {
+    "county":"Shasta",
+    "race":"White",
+    "sex":"F",
+    "AP CS":27.0,
+    "Non-AP CS":213.0,
+    "Overall Enrollment":2786.0
+  },
+  {
+    "county":"Shasta",
+    "race":"White",
+    "sex":"M",
+    "AP CS":41.0,
+    "Non-AP CS":245.0,
+    "Overall Enrollment":2930.0
+  },
+  {
+    "county":"Sierra",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Sierra",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Sierra",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Sierra",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":13.0
+  },
+  {
+    "county":"Sierra",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":7.0
+  },
+  {
+    "county":"Sierra",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":11.0
+  },
+  {
+    "county":"Sierra",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":0.0
+  },
+  {
+    "county":"Sierra",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":29.0
+  },
+  {
+    "county":"Sierra",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":56.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":11.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":16.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":17.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":148.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":24.0,
+    "Overall Enrollment":185.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":91.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":102.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":35.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":45.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":23.0,
+    "Overall Enrollment":566.0
+  },
+  {
+    "county":"Siskiyou",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":43.0,
+    "Overall Enrollment":592.0
+  },
+  {
+    "county":"Solano",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":48.0,
+    "Overall Enrollment":1420.0
+  },
+  {
+    "county":"Solano",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":74.0,
+    "Overall Enrollment":1413.0
+  },
+  {
+    "county":"Solano",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":10.0,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":383.0
+  },
+  {
+    "county":"Solano",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":7.0,
+    "Non-AP CS":39.0,
+    "Overall Enrollment":429.0
+  },
+  {
+    "county":"Solano",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":6.0,
+    "Non-AP CS":33.0,
+    "Overall Enrollment":977.0
+  },
+  {
+    "county":"Solano",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":19.0,
+    "Non-AP CS":64.0,
+    "Overall Enrollment":1073.0
+  },
+  {
+    "county":"Solano",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":18.0,
+    "Non-AP CS":117.0,
+    "Overall Enrollment":3480.0
+  },
+  {
+    "county":"Solano",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":34.0,
+    "Non-AP CS":191.0,
+    "Overall Enrollment":3660.0
+  },
+  {
+    "county":"Solano",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":19.0,
+    "Overall Enrollment":669.0
+  },
+  {
+    "county":"Solano",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":43.0,
+    "Overall Enrollment":713.0
+  },
+  {
+    "county":"Solano",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":60.0
+  },
+  {
+    "county":"Solano",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":56.0
+  },
+  {
+    "county":"Solano",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":119.0
+  },
+  {
+    "county":"Solano",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":94.0
+  },
+  {
+    "county":"Solano",
+    "race":"White",
+    "sex":"F",
+    "AP CS":8.0,
+    "Non-AP CS":60.0,
+    "Overall Enrollment":2339.0
+  },
+  {
+    "county":"Solano",
+    "race":"White",
+    "sex":"M",
+    "AP CS":21.0,
+    "Non-AP CS":118.0,
+    "Overall Enrollment":2505.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":189.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":9.0,
+    "Overall Enrollment":187.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":3.0,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":357.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":4.0,
+    "Non-AP CS":20.0,
+    "Overall Enrollment":373.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":87.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":102.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":91.0,
+    "Overall Enrollment":4780.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":12.0,
+    "Non-AP CS":166.0,
+    "Overall Enrollment":4882.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":12.0,
+    "Overall Enrollment":556.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":7.0,
+    "Non-AP CS":41.0,
+    "Overall Enrollment":542.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":91.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":103.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":45.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":48.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"White",
+    "sex":"F",
+    "AP CS":10.0,
+    "Non-AP CS":45.0,
+    "Overall Enrollment":4363.0
+  },
+  {
+    "county":"Sonoma",
+    "race":"White",
+    "sex":"M",
+    "AP CS":63.0,
+    "Non-AP CS":201.0,
+    "Overall Enrollment":4618.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":426.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":6.0,
+    "Non-AP CS":17.0,
+    "Overall Enrollment":450.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":12.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":643.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":23.0,
+    "Non-AP CS":38.0,
+    "Overall Enrollment":711.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":9.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":153.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":9.0,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":180.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":43.0,
+    "Non-AP CS":173.0,
+    "Overall Enrollment":10274.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":107.0,
+    "Non-AP CS":419.0,
+    "Overall Enrollment":10351.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":756.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":21.0,
+    "Non-AP CS":33.0,
+    "Overall Enrollment":687.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":95.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":99.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":122.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":3.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":124.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"White",
+    "sex":"F",
+    "AP CS":24.0,
+    "Non-AP CS":59.0,
+    "Overall Enrollment":4365.0
+  },
+  {
+    "county":"Stanislaus",
+    "race":"White",
+    "sex":"M",
+    "AP CS":70.0,
+    "Non-AP CS":238.0,
+    "Overall Enrollment":4582.0
+  },
+  {
+    "county":"Sutter",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":80.0
+  },
+  {
+    "county":"Sutter",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":88.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":481.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":31.0,
+    "Overall Enrollment":518.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":25.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":23.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":1337.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":22.0,
+    "Overall Enrollment":1359.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":183.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":220.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":28.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":41.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":14.0
+  },
+  {
+    "county":"Sutter",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Sutter",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":1480.0
+  },
+  {
+    "county":"Sutter",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":45.0,
+    "Overall Enrollment":1409.0
+  },
+  {
+    "county":"Tehama",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":14.0
+  },
+  {
+    "county":"Tehama",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":9.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":19.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":5.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":58.0,
+    "Overall Enrollment":610.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":105.0,
+    "Overall Enrollment":608.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":71.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":82.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":25.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":41.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Tehama",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Tehama",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":138.0,
+    "Overall Enrollment":719.0
+  },
+  {
+    "county":"Tehama",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":206.0,
+    "Overall Enrollment":787.0
+  },
+  {
+    "county":"Trinity",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Trinity",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":3.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":15.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Trinity",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Trinity",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":32.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":29.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":33.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":34.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":18.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Trinity",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":null
+  },
+  {
+    "county":"Trinity",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":1.0
+  },
+  {
+    "county":"Trinity",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":169.0
+  },
+  {
+    "county":"Trinity",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":202.0
+  },
+  {
+    "county":"Tulare",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":175.0
+  },
+  {
+    "county":"Tulare",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":216.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":2.0,
+    "Non-AP CS":8.0,
+    "Overall Enrollment":323.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":5.0,
+    "Non-AP CS":18.0,
+    "Overall Enrollment":380.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":1.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":119.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":147.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":4.0,
+    "Non-AP CS":281.0,
+    "Overall Enrollment":11471.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":15.0,
+    "Non-AP CS":626.0,
+    "Overall Enrollment":11758.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":257.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":10.0,
+    "Overall Enrollment":272.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":144.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":7.0,
+    "Overall Enrollment":123.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":30.0
+  },
+  {
+    "county":"Tulare",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":28.0
+  },
+  {
+    "county":"Tulare",
+    "race":"White",
+    "sex":"F",
+    "AP CS":5.0,
+    "Non-AP CS":41.0,
+    "Overall Enrollment":2622.0
+  },
+  {
+    "county":"Tulare",
+    "race":"White",
+    "sex":"M",
+    "AP CS":15.0,
+    "Non-AP CS":112.0,
+    "Overall Enrollment":2720.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":4.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":13.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":9.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":12.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":8.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":170.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":180.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":51.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":65.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":20.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":23.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":2.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":null,
+    "Overall Enrollment":679.0
+  },
+  {
+    "county":"Tuolumne",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":736.0
+  },
+  {
+    "county":"Ventura",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":6.0,
+    "Overall Enrollment":277.0
+  },
+  {
+    "county":"Ventura",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":14.0,
+    "Overall Enrollment":279.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":37.0,
+    "Non-AP CS":87.0,
+    "Overall Enrollment":1017.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":70.0,
+    "Non-AP CS":115.0,
+    "Overall Enrollment":987.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":11.0,
+    "Overall Enrollment":426.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":32.0,
+    "Overall Enrollment":467.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":7.0,
+    "Non-AP CS":250.0,
+    "Overall Enrollment":12282.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":28.0,
+    "Non-AP CS":479.0,
+    "Overall Enrollment":12725.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":6.0,
+    "Non-AP CS":21.0,
+    "Overall Enrollment":634.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":8.0,
+    "Non-AP CS":53.0,
+    "Overall Enrollment":674.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":58.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":1.0,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":42.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":0.0,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":43.0
+  },
+  {
+    "county":"Ventura",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":2.0,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":54.0
+  },
+  {
+    "county":"Ventura",
+    "race":"White",
+    "sex":"F",
+    "AP CS":27.0,
+    "Non-AP CS":209.0,
+    "Overall Enrollment":6747.0
+  },
+  {
+    "county":"Ventura",
+    "race":"White",
+    "sex":"M",
+    "AP CS":91.0,
+    "Non-AP CS":519.0,
+    "Overall Enrollment":7213.0
+  },
+  {
+    "county":"Yolo",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":129.0
+  },
+  {
+    "county":"Yolo",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":149.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":19.0,
+    "Overall Enrollment":456.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":40.0,
+    "Overall Enrollment":442.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":57.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":4.0,
+    "Overall Enrollment":84.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":16.0,
+    "Overall Enrollment":2164.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":80.0,
+    "Overall Enrollment":2205.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":151.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":13.0,
+    "Overall Enrollment":137.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":25.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":3.0,
+    "Overall Enrollment":32.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":29.0
+  },
+  {
+    "county":"Yolo",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":32.0
+  },
+  {
+    "county":"Yolo",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":26.0,
+    "Overall Enrollment":1525.0
+  },
+  {
+    "county":"Yolo",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":140.0,
+    "Overall Enrollment":1614.0
+  },
+  {
+    "county":"Yuba",
+    "race":"African American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":65.0
+  },
+  {
+    "county":"Yuba",
+    "race":"African American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":78.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Asian",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":142.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Asian",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":158.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Filipino",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Filipino",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":19.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Latinx",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":737.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Latinx",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":752.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Multiple races\/Other",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":139.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Multiple races\/Other",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":2.0,
+    "Overall Enrollment":106.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Native American",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":48.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Native American",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":1.0,
+    "Overall Enrollment":61.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Pacific Islander",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":10.0
+  },
+  {
+    "county":"Yuba",
+    "race":"Pacific Islander",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":0.0,
+    "Overall Enrollment":6.0
+  },
+  {
+    "county":"Yuba",
+    "race":"White",
+    "sex":"F",
+    "AP CS":null,
+    "Non-AP CS":5.0,
+    "Overall Enrollment":725.0
+  },
+  {
+    "county":"Yuba",
+    "race":"White",
+    "sex":"M",
+    "AP CS":null,
+    "Non-AP CS":18.0,
+    "Overall Enrollment":800.0
+  }
+]
