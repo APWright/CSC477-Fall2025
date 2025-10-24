@@ -400,26 +400,43 @@ Interaction is also not limited to HTML controls but can be made more powerful b
     .attr("cx", (d) => x_scale(d[x_axis_variable]))
     .attr("cy", (d) => y_scale(d[y_axis_variable]))
     .attr("fill", (d) => color(d.species))
-    .attr("class", (d) => d.species)
-    .on("mouseover", function (e, d) {
-      d3.select(this).transition().duration(100).attr("r", 15);
-    })
-    .on("mouseout", function (e, d) {
-      d3.select(this).transition().duration(100).attr("r", 5);
-    })
-    .on("click", function (e, d) {
+    .attr("class", (d) => d.species);
+
+  function remove_highlight_handlers() {
+    background.on("click", null);
+    scatter_points.on("mouseover", null).on("mouseout", null).on("click", null);
+  }
+  function add_highlight_handlers() {
+    background.on("click", (event) => {
       svg
         .selectAll("circle")
         .transition()
         .duration(100)
-        .attr("fill", "#CCCCCC22");
-
-      svg
-        .selectAll(`.${d.species}`)
-        .transition()
-        .duration(100)
         .attr("fill", (d) => color(d.species));
     });
+    scatter_points
+      .on("mouseover", function (e, d) {
+        d3.select(this).transition().duration(100).attr("r", 15);
+      })
+      .on("mouseout", function (e, d) {
+        d3.select(this).transition().duration(100).attr("r", 5);
+      })
+      .on("click", function (e, d) {
+        svg
+          .selectAll("circle")
+          .transition()
+          .duration(100)
+          .attr("fill", "#CCCCCC22");
+
+        svg
+          .selectAll(`.${d.species}`)
+          .transition()
+          .duration(100)
+          .attr("fill", (d) => color(d.species));
+      });
+  }
+  add_highlight_handlers();
+  // remove_highlight_handlers();
 
   // Append the axes.
   const x_axis = svg
@@ -453,6 +470,8 @@ Interaction is also not limited to HTML controls but can be made more powerful b
     );
 
   function update_x_axis(event) {
+    remove_highlight_handlers();
+
     const new_axis = event.srcElement.value;
     const x_scale = d3
       .scaleLinear()
@@ -470,10 +489,13 @@ Interaction is also not limited to HTML controls but can be made more powerful b
     scatter_points
       .transition()
       .duration(3000)
-      .attr("cx", (d) => x_scale(d[new_axis]));
+      .attr("cx", (d) => x_scale(d[new_axis]))
+      .on("end", add_highlight_handlers);
   }
 
   function update_y_axis(event) {
+    remove_highlight_handlers();
+
     const new_axis = event.srcElement.value;
     const y_scale = d3
       .scaleLinear()
@@ -483,14 +505,15 @@ Interaction is also not limited to HTML controls but can be made more powerful b
 
     y_axis
       .transition()
-      .duration(3000)
+      .duration(5000)
       .call(d3.axisLeft(y_scale))
       .call((g) => g.select(".y_axis_label").text(`${new_axis} (cm)`));
 
     scatter_points
       .transition()
-      .duration(3000)
-      .attr("cy", (d) => y_scale(d[new_axis]));
+      .duration(5000)
+      .attr("cy", (d) => y_scale(d[new_axis]))
+      .on("end", add_highlight_handlers);
   }
 
   display(chart.node());
@@ -502,6 +525,9 @@ Interaction is also not limited to HTML controls but can be made more powerful b
 While general kinds of interaction are extremeley powerful and will be essential to creating compelling bespoke visualizations. There are many kinds of interaction styles that will be common across many different designs and so D3 has additional features to make these interactions easy to include.
 
 Brushing is the interactive specification a one- or two-dimensional selected region using a pointing gesture, such as by clicking and dragging the mouse. Brushing is often used to select discrete elements, such as dots in a scatterplot or files on a desktop. It can also be used to zoom-in to a region of interest, or to select continuous regions for cross-filtering data or live histograms.
+
+<iframe width="100%" height="1826" frameborder="0"
+  src="https://observablehq.com/embed/@d3/mona-lisa-histogram?cells=chart"></iframe>
 
 The [d3-brush module](https://d3js.org/d3-brush) implements brushing for mouse and touch events using SVG. Click and drag on the brush selection to translate the selection.
 
@@ -750,6 +776,11 @@ Another very common mode of interaction is panning and zooming which can be more
 }
 ```
 
+In addition to freeform zooming, d3-Zoom provides capabilities for more "on the rails" zooming for strucutred nagivation or storytelling
+
+<iframe width="100%" height="584" frameborder="0"
+  src="https://observablehq.com/embed/@d3/smooth-zooming?cells=chart"></iframe>
+
 ## Dragging
 
 [Dragging](https://d3js.org/d3-drag) is a very cool interaction techniques when dealing with spatial elements, in particular graphs or cases where you may want to have user definable groupings and heirarchies. Additionally dragging is the interaction to use if you want to have custom shaped lasso selection, or user drawn line inputs.
@@ -859,4 +890,52 @@ This example uses multiple interactions including draging as well as a [force si
   fill: rgba(200, 30, 30, 1);
 }
 <style>
+```
+
+## Excercise
+
+Below is the code for the replayable animated ball from above. How would you change it to allow the user to drag the ball round, and when clicked go between red and blue states. When pressing replay the ball will go back and forth between the two until you try to drag it agaian. What about adding a widget to determine the speed of returning?
+
+```js
+{
+  const height = 100;
+  const r = 50;
+
+  //construct initial state
+  const animation = d3.create("div");
+
+  const button = animation
+    .append("button")
+    .text("Bounce!")
+    .style("margin-bottom", "15px")
+    .on("click", replay);
+
+  const svg = animation
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .style("overflow", "visible");
+
+  const circle = svg
+    .append("circle")
+    .style("fill", "white")
+    .attr("r", r)
+    .attr("cx", r)
+    .attr("cy", height * 0.5);
+
+  // Handle events and updates
+
+  function replay() {
+    circle
+      .style("fill", "white")
+      .transition()
+      .duration(2000)
+      .attr("cx", width - r)
+      .transition()
+      .duration(2000)
+      .attr("cx", r);
+  }
+
+  display(animation.node());
+}
 ```
