@@ -22,7 +22,6 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: cd D3-Examples
       - run: npm ci
       - run: npm run build
       - uses: actions/configure-pages@v4
