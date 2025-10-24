@@ -2,14 +2,14 @@
 
 In observable framework we can write documents using standard markdown format. And embed live javascript and d3 code using fenced code blocks.
 
-```js
+```js echo
 const x = 2 + 2;
 display(x);
 ```
 
 Lets start with just setting up a basic SVG canvas.
 
-```js
+```js echo
 {
   const w = 100;
   const h = 100;
@@ -26,7 +26,7 @@ Lets start with just setting up a basic SVG canvas.
 
 Now lets add some shapes. Note how shapes can be drawn on top of eachother, order matters just like painting on a physical canvas. Careful to stay inside the lines!
 
-```js
+```js echo
 {
   const w = 100;
   const h = 100;
@@ -66,7 +66,7 @@ Now lets add some shapes. Note how shapes can be drawn on top of eachother, orde
 
 Now lets add some data.
 
-```js
+```js echo
 {
   const w = 100;
   const h = 100;
@@ -95,7 +95,7 @@ Now lets add some data.
 
 Now try changing this code to make the chart horizontal.
 
-```js
+```js echo
 {
   const w = 100;
   const h = 100;

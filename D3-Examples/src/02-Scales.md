@@ -4,7 +4,7 @@ In order to control visual properties from data properties we need to be able to
 
 Lets consider this little (but delicious!) dataset of fruit.
 
-```js
+```js echo
 const fruits = [
   { name: "🍊", count: 21 },
   { name: "🍇", count: 13 },
@@ -21,7 +21,7 @@ display(fruits);
 
 Like many visualizations, the bar chart below maps two abstract dimensions to two visual variables: the name dimension is mapped to the bars’ y-position, while the count dimension is mapped to the x-position. These mappings are implemented by the x and y scales that follow.
 
-```js
+```js echo
 const canvas_width = 500;
 const canvas_height = 200;
 const margin = 30;
@@ -40,7 +40,7 @@ const y_scale = d3
   .round(true);
 ```
 
-```js
+```js echo
 {
   const svg = d3
     .create("svg")
@@ -75,26 +75,26 @@ For a linear scale, the domain and range are continuous intervals (from min to m
 
 The scales above are configured using method chaining. This concise style is possible because methods that configure a scale, such as scale. Furthermore, it is important to rember that ultimatley as D3 scale is _just a function_, and can be called at any time to get the visual value of some abstract value (even if the abstract value is not actually represented in the data, as long as it is in the _domain_ of the scale).
 
-```js
-display(`y_scale("🍇") = ${y_scale("🍇")}`); // the y-coordinate for name = grapes
+```js echo
+display(y_scale("🍇")); // the y-coordinate for name = grapes
 ```
 
 Position is the strongest visual variable, so it’s not a coincidence that our discussion of scales has so far focused on position.
 
 Yet scales can be used for other visual variables, such as color. 🌈
 
-```js
+```js echo
 const color = d3
   .scaleOrdinal()
   .domain(fruits.map((d) => d.name))
   .range(d3.schemeTableau10);
 
-display(`color("🍇")  = ${color(0)}`);
+display(color("🍇"));
 ```
 
 Now we can add a redundant encoding to the bar chart, mapping the fruit name to color as well as bar width.
 
-```js
+```js echo
 {
   const svg = d3
     .create("svg")
