@@ -232,12 +232,12 @@ const y_scale = d3
   .nice()
   .range([height - margin.bottom, margin.top]);
 
-x_axis
-  .transition()
-  .duration(3000)
-  .call(d3.axisBottom(x_scale).ticks(width / 80));
+// x_axis
+//   .transition()
+//   .duration(3000)
+//   .call(d3.axisBottom(x_scale).ticks(width / 80));
 
-y_axis.transition().duration(3000).call(d3.axisLeft(y_scale));
+// y_axis.transition().duration(3000).call(d3.axisLeft(y_scale));
 
 scatter_points
   .transition()
@@ -470,7 +470,7 @@ Interaction is also not limited to HTML controls but can be made more powerful b
     );
 
   function update_x_axis(event) {
-    remove_highlight_handlers();
+    // remove_highlight_handlers();
 
     const new_axis = event.srcElement.value;
     const x_scale = d3
@@ -894,48 +894,41 @@ This example uses multiple interactions including draging as well as a [force si
 
 ## Excercise
 
-Below is the code for the replayable animated ball from above. How would you change it to allow the user to drag the ball round, and when clicked go between red and blue states. When pressing replay the ball will go back and forth between the two until you try to drag it agaian. What about adding a widget to determine the speed of returning?
+Below is an the code for the replayable animated ball from above. How would you change it to allow the user to drag the ball around, and when clicked go between red and blue states. When pressing replay the ball will animate to go back and forth between the two positions defined by the last position in the red and blue states, until you try to drag it agaian. What about adding a widget to determine the speed of the bouncing? Included is a solution to the problem if you need help or to compare to your solution.
 
 ```js
+import { solution } from "./components/interaction_excercise.js";
+
 {
-  const height = 100;
+  // Template for your solution
+
+  // Construct initial state
+  const width = 500;
+  const height = 200;
   const r = 50;
 
-  //construct initial state
-  const animation = d3.create("div");
-
-  const button = animation
-    .append("button")
-    .text("Bounce!")
-    .style("margin-bottom", "15px")
-    .on("click", replay);
-
-  const svg = animation
-    .append("svg")
-    .attr("width", width)
-    .attr("height", height)
-    .style("overflow", "visible");
+  const svg = d3.create("svg").attr("width", width).attr("height", height);
 
   const circle = svg
     .append("circle")
     .style("fill", "white")
     .attr("r", r)
     .attr("cx", r)
-    .attr("cy", height * 0.5);
+    .attr("cy", height * 0.5)
+    .transition() //These transitions should only be applied in the interaction handlers
+    .duration(1000)
+    .attr("cx", width - r)
+    .transition()
+    .duration(1000)
+    .attr("cx", r);
+
+  //TODO add in components for dragging in the initial state
 
   // Handle events and updates
 
-  function replay() {
-    circle
-      .style("fill", "white")
-      .transition()
-      .duration(2000)
-      .attr("cx", width - r)
-      .transition()
-      .duration(2000)
-      .attr("cx", r);
-  }
+  //TODO add in event handlers and animated transtions to state properties
 
-  display(animation.node());
+  //Change this to your solution and see how it works!
+  display(solution.node());
 }
 ```
